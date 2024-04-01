@@ -16,7 +16,6 @@
     1. Swap endianness
     2. From Hexadecimal
 
-
 ![Check image in folder](stonks.png "Solution image")
 ![Check image in folder](Image1.png "Solution image")
 ![Check image in folder](Image2.png "Solution image")
