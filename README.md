@@ -9,3 +9,4 @@
 - [x] information (NH)
 - [x] Nice netcat (NH)
 - [x] Transformation (NH)
+- [x] Stonks (NH)
