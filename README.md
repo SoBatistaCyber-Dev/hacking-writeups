@@ -10,3 +10,6 @@
 - [x] Nice netcat (NH)
 - [x] Transformation (NH)
 - [x] Stonks (NH)
+- [x] Get aHEAD (NH)
+- [x] Mind your Ps and QS (NH)
+- [x] Static ain't always noise (NH)
