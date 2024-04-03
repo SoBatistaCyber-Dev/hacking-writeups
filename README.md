@@ -13,3 +13,5 @@
 - [x] Get aHEAD (NH)
 - [x] Mind your Ps and QS (NH)
 - [x] Static ain't always noise (NH)
+- [x] Tab_Tab_Attack (NH)
+- [x] Super SSH (NH)
