@@ -15,3 +15,5 @@
 - [x] Static ain't always noise (NH)
 - [x] Tab_Tab_Attack (NH)
 - [x] Super SSH (NH)
+- [ ] Keygenme-py (NH)
+- [x] Matryoshka doll (NH)
