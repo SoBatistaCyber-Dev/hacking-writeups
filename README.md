@@ -17,3 +17,4 @@
 - [x] Super SSH (NH)
 - [ ] Keygenme-py (NH)
 - [x] Matryoshka doll (NH)
+- [x] Magikarp Group Mission
